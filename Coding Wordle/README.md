@@ -1,6 +1,6 @@
-# Codle
+# Coding Wordle
 
-Guess code like Wordle with AST nodes as letters. [Play it!](https://codle.ouuan.moe)
+Guess code like Wordle with AST nodes as letters.
 
 [![preview image](public/images/og-image.png)](https://codle.ouuan.moe)
 
